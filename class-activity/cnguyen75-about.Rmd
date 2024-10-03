@@ -1,0 +1,8 @@
+---
+title: "cnguyen75"
+output: pdf_document
+date: "2024-10-03"
+---
+
+# About me
+I play tennis.
