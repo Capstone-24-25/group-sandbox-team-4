@@ -6,3 +6,5 @@ I play tennis
 Question
 
 How often do you play tennis?
+
+weekly
