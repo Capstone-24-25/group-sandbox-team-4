@@ -1,0 +1,14 @@
+---
+title: "PSTAT 197 git demo"
+author: "Christina Hefan Cui"
+date: "2024-10-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Self Intro
+
+I am Christina Hefan Cui, a senior double majoring in Statistics & Data Science and Art.
